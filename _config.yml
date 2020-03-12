@@ -7,7 +7,7 @@ description: A website about crafting my life with the help of technology, engin
 
 # if it's an external image, update below for true
 # better with square images
-external-image: true
+external-image: false
 picture: assets/images/profile.jpg
 
 url: https://gforghieri.github.io
